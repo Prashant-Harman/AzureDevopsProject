@@ -3,8 +3,8 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
     <div class="jumbotron">
-        <h1>Azure</h1>
-        <p class="lead">First Devops Project</p>
+        <h1>Azure Devops</h1>
+        <p class="lead">First Project</p>
         <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
     </div>
 
